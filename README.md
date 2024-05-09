@@ -80,7 +80,9 @@ n=read(fd,buff,2000);
 write(wfd,buff,n); 
 }
 ~~~
+
 ## OUTPUT
+
 
 ![322687750-e9242169-e755-465e-8920-f76311cec477](https://github.com/04Varsha/Linux-IPC-Pipes/assets/149035374/06a1ea90-65cb-4c36-abb6-526d317dab29)
 
